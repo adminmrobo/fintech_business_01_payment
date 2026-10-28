@@ -4,7 +4,7 @@
 
 > 똑같은 "성공 아니면 실패" 실험인데, 왜 "몇 번 성공했나"와 "언제 처음 성공했나"는 서로 다른 분포가 될까?
 
-페이지 주소: https://adminmrobo.github.io/statistics_note_ch03_-Discrete-probability-distribution_01/
+페이지 주소: https://adminmrobo.github.io/statistics_note_ch03_Discrete-probability-distribution_01/
 
 박사·하루·초파리 연구원·Money-Robo 네 캐릭터와 함께 밤의 연구실 검사대에서 시험관 검사, 택배 도착, 봉인 상자 추출을 직접 돌려 보며 이산확률분포 일곱 가지를 배우는 인터랙티브 해설 페이지입니다.
 
